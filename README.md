@@ -4,12 +4,7 @@
 
 </p>
 
-I'm a psychologist turned data scientist who is passionate about using artificial
-intelligence to make the world a slightly better place. Typically, I like to 
-work on projects involving machine learning, nlp or 
-any analyses involving human behavior. In my spare time, you will often
-find me working on personal [projects](https://github.com/MaartenGr/Projects) 
-or writing articles on [medium](http://medium.com/@maartengrootendorst) which typically reside on the intersection of AI and human behavior. 
+Data Scientist / ML Engineer. An eager to learn Computer Engineering Graduate Student. Interested in ML, DL, SQL, NLP, Statistics and Big Data.
 
 <details>
 <summary>Projects</summary>
@@ -72,4 +67,4 @@ or writing articles on [medium](http://medium.com/@maartengrootendorst) which ty
 -->
 
 -----
-Credits: [Maarten Grootendors](https://github.com/MaartenGr)
+Credits: [Yunus Emrah Uluçay](https://github.com/yunusulucay)

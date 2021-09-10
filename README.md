@@ -6,11 +6,11 @@
 
 Data Scientist / ML Engineer. An eager to learn Computer Engineering Graduate Student. Interested in ML, DL, SQL, NLP, Statistics and Big Data.
 
-<details>
+
 
   
 <!--- 
-
+<details>
 <summary>Projects</summary>
 
 --->
@@ -33,9 +33,9 @@ Data Scientist / ML Engineer. An eager to learn Computer Engineering Graduate St
 | [**Coronavirus Tweets**: A hands-on nlp project. Text classification](https://github.com/yunusulucay/coronavirus_tweets_text_classification) | <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**The World English Bible**: A hands-on Big Data project with PySpark](https://github.com/yunusulucay/the_world_english_bible) | <img src="https://img.shields.io/badge/-PySpark-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Pain Pills in USA**: A hands-on Big Data project with PySpark](https://github.com/yunusulucay/pain_pills_in_usa) | <img src="https://img.shields.io/badge/-PySpark-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue"> |
-
+<!---
 </details>  
-
+--->
 ----
 
 #### Recent Posts

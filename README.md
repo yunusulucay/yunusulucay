@@ -25,10 +25,6 @@ Data Scientist / ML Engineer. An eager to learn Computer Engineering Graduate St
 | [**SQL Works**: SQL training and notes](https://github.com/MaartenGr/cTFIDF) | <img src="https://img.shields.io/badge/-Education-white"> <img src="https://img.shields.io/badge/-SQL-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**NLP Works**: NLP training and notes](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-Education-white"> <img src="https://img.shields.io/badge/-Text%20Mining-red"> <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**PySpark Works**: PySpark training and notes](https://github.com/MaartenGr/BERTopic) | <img src="https://img.shields.io/badge/-Education-white"> <img src="https://img.shields.io/badge/-PySpark-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
-
-
-
-
 | [**Credit Card Fraud Detection**: A hands-on machine learning project.](https://github.com/MaartenGr/ML-API) | <img src="https://img.shields.io/badge/-Machine%20Learning-orange"> <img src="https://img.shields.io/badge/-Visualization-purple"> <img src="https://img.shields.io/badge/-Data%20Analysis-brightgreen"> <img src="https://img.shields.io/badge/-Testing-grey"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Sberbank Russian Housing Market**: A hands-on ml project](https://github.com/MaartenGr/validation) | <img src="https://img.shields.io/badge/-Machine%20Learning-orange"> <img src="https://img.shields.io/badge/-Data%20Analysis-brightgreen"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Daily Delhi Climate Test**: A hands-on ml project.(Time series data)](https://github.com/MaartenGr/PotholeDetection) | <img src="https://img.shields.io/badge/-Time%20Series-blue"> <img src="https://img.shields.io/badge/-Machine%20Learning-orange"> <img src="https://img.shields.io/badge/-Data%20Analysis-brightgreen"> <img src="https://img.shields.io/badge/-Python-blue"> |

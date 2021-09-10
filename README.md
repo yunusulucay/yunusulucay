@@ -54,6 +54,7 @@ Data Scientist / ML Engineer. An eager to learn Computer Engineering Graduate St
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maartengr" alt="maartengr" /> </p>
 
 -->
+This template is taken from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 
 -----
 Credits: [Yunus Emrah Uluçay](https://github.com/yunusulucay)

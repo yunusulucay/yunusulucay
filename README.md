@@ -39,6 +39,8 @@ Data Scientist / ML Engineer. An eager to learn Computer Engineering Graduate St
 ----
 
 #### Recent Posts
+
+No post on medium yet.
 <!-- BLOG-POST-LIST:START
 
 - [String Matching with BERT, TF-IDF, and more!](https://towardsdatascience.com/string-matching-with-bert-tf-idf-and-more-274bb3a95136?source=rss-22405c3b2875------2)

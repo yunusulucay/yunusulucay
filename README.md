@@ -7,15 +7,15 @@
 Data Scientist / ML Engineer. An eager to learn Computer Engineering Graduate Student. Interested in ML, DL, SQL, NLP, Statistics and Big Data.
 
 <details>
+
+  
+<!--- 
+
 <summary>Projects</summary>
-  
-  <!---
-  | Command | Description |
-| --- | --- |
-| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
-| ... | ... |
-  --->
-  
+
+--->
+#### Projects
+
 | Project | Tags |
 | --- | --- |
 | [**Python Advanced Programming**: Training and notes about Python Programming](https://github.com/yunusulucay/python_advanced_programming) | <img src="https://img.shields.io/badge/-Education-white"> <img src="https://img.shields.io/badge/-Python-blue"> |

@@ -50,6 +50,6 @@ BLOG-POST-LIST:END -->
 
 -----
 
-This template is taken from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+If you want to use a template like this you can visit this repo.| [this repo](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) | 
 
 Credits: [Yunus Emrah Uluçay](https://github.com/yunusulucay)

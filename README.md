@@ -1,4 +1,4 @@
-Data Scientist. An eager to learn Computer Engineering Graduate Student. Interested in ML, DL, SQL, NLP, Statistics and Big Data.
+Data Scientist. A Computer Engineering Graduate Student eager to learn. Interested in ML, DL, SQL, NLP, Statistics and Big Data.
 
 <p align="center">
 <a href="https://medium.com/@yunuseulucay" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@yunuseulucay" alt="yunuseulucay"/></a>
